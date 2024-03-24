@@ -1,0 +1,1 @@
+# Project demonstrating the capabilities of object-oriented programming. Includes signal and handler system.
