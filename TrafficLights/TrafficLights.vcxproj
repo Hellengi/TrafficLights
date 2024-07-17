@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{87eeef11-c919-427d-9a98-b63952fcbea7}</ProjectGuid>
+    <ProjectGuid>{1de3cee7-fe56-4a4a-a132-eebd96b25cd7}</ProjectGuid>
     <RootNamespace>TrafficLights</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>

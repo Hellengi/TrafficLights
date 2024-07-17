@@ -1,1 +1,4 @@
-# Project demonstrating the capabilities of object-oriented programming. Includes signal and handler system.
+## Second semester project (1st year)
+### The project demonstrates the capabilities of object-oriented programming. It includes a signal and handler system.
+
+![image](image.png?raw=true)
